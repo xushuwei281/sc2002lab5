@@ -1,0 +1,3 @@
+/Users/gargamel724/CLionProjects/Sc2002Lab5/cmake-build-debug/CMakeFiles/Sc2002Lab5.dir
+/Users/gargamel724/CLionProjects/Sc2002Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gargamel724/CLionProjects/Sc2002Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
